@@ -48,7 +48,7 @@ var shelf1, shelf2;
 // }
 
 function setup() {
-	createCanvas(1500, 700);
+	createCanvas(1000, 700);
 
 
 	engine = Engine.create();
